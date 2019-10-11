@@ -71,5 +71,5 @@
 .product-list strong {
   display: flex;
   justify-content: center;
-  
+  text-transform: uppercase;
 }

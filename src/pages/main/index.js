@@ -24,7 +24,7 @@ export default class Main extends Component {
 
 
    prevPage =() => {
-      const { page, productInfo } = this.state;
+      const { page } = this.state;
       
       if (page === 1) return;
 
@@ -36,7 +36,7 @@ export default class Main extends Component {
    nextPage = () => {
       const { page, productInfo } = this.state;
 
-      if (page == productInfo.pages) return;
+      if (page === productInfo.pages) return;
 
       const pageNumber = page + 1;
 
