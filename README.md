@@ -1,7 +1,7 @@
 # JsHunt
  Small project using React.js and Javascript technologies following the course of RocketSeat.
 
-# Features used
+# Resources used
 
 -Componentization
 
