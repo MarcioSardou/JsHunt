@@ -22,7 +22,7 @@ The idea of the App is:
  
 # Installing <a id="install"></a>
 
-$ git clone https://github.com/YagoLopes/jshunt
+$ git clone https://github.com/MarcioSardou/JsHunt
 
 $ cd jshunt
 
